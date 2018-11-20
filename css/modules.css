@@ -209,10 +209,6 @@ svg.img-flex {
   width: 100%;
 }
 
-.media {
-  overflow: hidden;
-}
-
 .media-img, .media__img {
   float: left;
 }
@@ -228,14 +224,6 @@ svg.img-flex {
 .media-body, .media__body {
   overflow: hidden;
   min-width: 12em; /* Slightly less than 200px, responsiveness built in */
-}
-
-.icon {
-  display: inline-block;
-  position: relative;
-  background: transparent none no-repeat center center;
-  background-size: contain;
-  vertical-align: middle;
 }
 
 .i-16, .i--16 {
